@@ -22,3 +22,5 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/ai-assistant/venv/
+/ai-assistant/__pycache__/
